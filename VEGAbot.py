@@ -27,7 +27,7 @@ while keyboard.is_pressed('q') == False:
     time.sleep(np.random.uniform(0.2, 0.4))
     pyautogui.keyUp('3')
 
-    # cekanje izmeeđu timera je da igrica teze skuzi da je ovo skripta1
+    # cekanje između timera je da igrica teze skuzi da je ovo skripta
     time.sleep(np.random.uniform(0.75, 1.25))
 
     #PROVJERA - dali je flota u bitci 
